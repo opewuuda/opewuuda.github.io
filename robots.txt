@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opewuuda.github.io/TfG/sitemap_index.txt
+Sitemap: https://opewuuda.github.io/hUo/sitemap_index.txt
+Sitemap: https://opewuuda.github.io/qrg/sitemap_index.txt
+Sitemap: https://opewuuda.github.io/vud/sitemap_index.txt
